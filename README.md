@@ -75,6 +75,7 @@ State Management: `Redux`, `RTK Query`, `Pinia`
 | Project        | Description |
 |----------------|-------------|
 | [Doplac CRM](https://app.doplac.com) | Saas CRM |
+| [Acceler8](https://acceler8.com.au) | Acceler8 Training is a service provider |
 | [Steel Bazar](https://steel-bazar.com) | Full-stack E-commerce Platform |
 | [EPEC](https://epec.com.bd) | Corporate website for steel solutions |
 | [Boisodai](https://boisodai.com) | Online book selling e-commerce |
