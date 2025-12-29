@@ -8,6 +8,15 @@
   Laravel • React • Vue • Docker • AWS • Scalable Systems
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/dev-manik-mia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-dev--manik--mia-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/manik-mia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Old%20Account-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ---
 
 ## 👋 About Me
@@ -20,6 +29,17 @@ I specialize in:
 - Solving **real business problems**, not just writing code
 
 I enjoy working in environments where **ownership, performance, and clean architecture** matter.
+
+---
+
+## 🔗 GitHub Accounts (Important)
+
+> **This is my primary GitHub profile.**  
+> I also have an **older GitHub account** containing additional projects and history:
+
+👉 **Old GitHub:** https://github.com/manik-mia
+
+(Some earlier works and experiments live there.)
 
 ---
 
@@ -77,21 +97,15 @@ I actively practice algorithms and data structures to sharpen my thinking.
 ### 🧠 Full-Stack Software Engineer (SaaS / CRM)
 
 - Built and scaled a **multi-module SaaS CRM platform** used in real business environments
-- Designed modules including:
+- Developed modules:
   - Email Marketing
   - Funnel Builder
   - Cold Outreach
   - Team Inbox
   - CMS Builder
-- Implemented **granular role & permission systems** (teams, sub-accounts)
-- Engineered **high-volume email systems** with:
-  - Queue workers
-  - SMTP rotation
-  - Webhooks
-- Improved system performance by:
-  - Optimizing queue execution
-  - Refactoring heavy queries
-  - Reducing processing bottlenecks
+- Implemented **granular role & permission systems**
+- Engineered **high-volume email systems** with queue workers, SMTP rotation, and webhooks
+- Improved performance via queue optimization and database refactoring
 
 ---
 
@@ -100,18 +114,16 @@ I actively practice algorithms and data structures to sharpen my thinking.
 - **Financial Management System**
   - React + Redux
   - Secure authentication
-  - Real-time reporting dashboards
+  - Real-time dashboards
 
 - **Project Management Platform**
   - Laravel + React
-  - Role-based access
-  - Workflow automation
+  - Role-based workflows
 
 - **Modern eCommerce Platforms**
   - OTP-based authentication
   - Vendor dashboards
   - Inventory & order workflows
-  - Next.js-powered UI
 
 ---
 
@@ -119,58 +131,49 @@ I actively practice algorithms and data structures to sharpen my thinking.
 
 - Built a **Passport OCR Microservice**
   - Python + EasyOCR
-  - Extracted structured data from scanned documents
-  - Improved accuracy by ~15% via preprocessing
+  - Improved extraction accuracy by ~15%
 
 ---
 
 ## 🌐 Real-World Projects
 
-## 🌐 Real-World Projects
-
 | Project | Description |
 |--------|-------------|
-| **[Doplac CRM](https://app.doplac.com)** | Full-featured **SaaS CRM platform** with email marketing, funnels, automation, team inbox, and role-based permissions. |
-| **[Acceler8](https://acceler8.com.au)** | Training & education service platform with course management and enrollment workflows. |
-| **[IQTester](https://iqtester.com)** | Think You’re Smarter Than Average |
-| **[Steel Bazar](https://steel-bazar.com)** | **Multi-vendor eCommerce system** featuring inventory management, vendor dashboards, and order workflows. |
-| **[EPEC](https://epec.com.bd)** | Corporate website for a steel solutions company with a modern, responsive UI. |
-| **[Boisodai](https://boisodai.com)** | Online **book-selling eCommerce platform** with search, categories, and secure checkout. |
-| **[MakeTop](https://maketop.me)** | Social media **promotion & automation tool** designed for growth and engagement. |
-| **[Hotovaga](https://hotovaga.com)** | Modern blogging platform with CMS features and SEO-friendly architecture. |
-| **[Dubai E-Visa Service](https://dubaievisaservice.com)** | Secure online visa processing system with application workflows and document handling. |
-
+| **[Doplac CRM](https://app.doplac.com)** | Full-featured **SaaS CRM platform** with email marketing, automation, and team collaboration. |
+| **[Acceler8](https://acceler8.com.au)** | Training & education service platform with enrollment workflows. |
+| **[IQTester](https://iqtester.com)** | Online IQ testing platform focused on performance and UX. |
+| **[Steel Bazar](https://steel-bazar.com)** | **Multi-vendor eCommerce system** with vendor dashboards and order workflows. |
+| **[EPEC](https://epec.com.bd)** | Corporate website for a steel solutions company. |
+| **[Boisodai](https://boisodai.com)** | Online book-selling eCommerce platform. |
+| **[MakeTop](https://maketop.me)** | Social media promotion & automation tool. |
+| **[Hotovaga](https://hotovaga.com)** | Modern blogging platform with CMS features. |
+| **[Dubai E-Visa Service](https://dubaievisaservice.com)** | Secure online visa processing system. |
 
 ---
 
 ## 🚧 Currently Working On
 
 - ⏱️ **Desktop Time Tracking App**
-  - Screenshots, task tracking, project management
-
-- 📱 **Mobile Reminder App**
-  - SQLite
-  - Custom notification system
-
+- 📱 **Mobile Reminder App** (SQLite + custom notifications)
 - 🎯 Exploring **Flutter** for cross-platform apps
 
 ---
 
 ## 👨‍💻 Engineering Philosophy
 
-- Build **for scale**, even when starting small
+- Build **for scale**
 - Prefer **clarity over cleverness**
-- Love **async processing, queues & background jobs**
-- Focus on **business impact**, not just features
+- Love **async systems & background jobs**
+- Focus on **business impact**
 
 ---
 
 ## 📚 Learning & Growth
 
-- Artificial Intelligence & Machine Learning
-- Secure API & OAuth flows
+- AI & Machine Learning
+- Secure APIs & OAuth
 - Kubernetes & advanced DevOps
-- Cross-platform apps with Flutter
+- Cross-platform development with Flutter
 
 ---
 
@@ -184,9 +187,5 @@ I actively practice algorithms and data structures to sharpen my thinking.
 
 ### ⭐ Thanks for stopping by!
 
-If you’re:
-- Hiring a **reliable Full-Stack Engineer**
-- Building a **serious product**
-- Or just want to talk tech  
-
-👉 **Let’s connect. I’d love to collaborate.**
+If you’re hiring a **senior-level Full-Stack Engineer**,  
+or building something meaningful — **let’s talk.**
