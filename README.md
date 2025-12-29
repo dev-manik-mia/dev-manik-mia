@@ -1,123 +1,188 @@
-<!-- Animated name using SVG -->
+<!-- Animated name -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Manik+Mia+%F0%9F%92%BB;Software+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=500&lines=Hi+there+👋;I'm+Manik+Mia;Senior+Full-Stack+Software+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>Full-Stack Engineer • SaaS Builder • Problem Solver</strong><br/>
+  Laravel • React • Vue • Docker • AWS • Scalable Systems
 </p>
 
 ---
 
-Welcome to my GitHub profile! I'm **Manik Mia**, a passionate software developer with a love for clean code, elegant UIs, and scalable backends. I believe in constant learning, collaborative growth, and creating products that make lives better.
+## 👋 About Me
+
+I’m **Manik Mia**, a **Full-Stack Software Engineer with 4+ years of professional experience** building **production-grade SaaS, CRM, eCommerce, and automation platforms**.
+
+I specialize in:
+- Designing **scalable backend systems**
+- Building **clean, modern UIs**
+- Solving **real business problems**, not just writing code
+
+I enjoy working in environments where **ownership, performance, and clean architecture** matter.
 
 ---
 
-## 🌟 LeetCode Stats
+## 🚀 Career Snapshot (TL;DR for Hiring Managers)
 
-I regularly solve coding challenges to sharpen my algorithmic thinking and problem-solving abilities.
+- ✅ **4+ years** professional experience
+- 🧠 **225+ LeetCode problems solved**
+- 🏗️ Built & maintained **large-scale SaaS CRM**
+- ⚙️ Strong in **queues, async jobs, background workers**
+- ☁️ Production experience with **AWS & Docker**
+- 🔐 Experience with **OAuth, secure APIs, role-based systems**
+- 📈 Performance-focused mindset (DB optimization, queues, caching)
+
+---
+
+## 🧠 Problem Solving (LeetCode)
+
+I actively practice algorithms and data structures to sharpen my thinking.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dev-manik-mia?theme=light&font=Risque)
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ Core Tech Stack
 
-### 🔹 Frontend
-`HTML` · `CSS` · `Bootstrap` · `TailwindCSS`  
-`JavaScript` · `TypeScript` · `jQuery` · `Vue.js` · `React.js` · `Next.js` · `Inertia.js`  · `Liveware`  
-State Management: `Redux`, `RTK Query`, `Pinia`
+### Frontend
+- HTML, CSS, Bootstrap, TailwindCSS  
+- JavaScript, TypeScript  
+- Vue.js, React.js, Next.js  
+- Inertia.js, Livewire  
+- State Management: Redux, RTK Query, Pinia  
 
-### 🔹 Backend
-`PHP` · `Python` · `Golang` · `TypeScript` · `Laravel` · `AdonisJS` · `Node.js` · `Express.js`
+### Backend
+- PHP, Python, Golang, TypeScript  
+- Laravel, AdonisJS  
+- Node.js, Express.js, NestJS  
 
-### 🔹 Database & Infra
-`MySQL` · `SQLite` · `MongoDB` · `Redis` · `Docker` · `AWS` (SES, S3)
+### Database & Infrastructure
+- MySQL, PostgreSQL, SQLite  
+- MongoDB, Redis  
+- Docker, GitHub Actions  
+- AWS (EC2, S3, SES)
 
-### 🔹 Others
-`Chrome Extensions` · `JavaFX` · `Git` · `RESTful APIs` · `MVC Architecture` · `Docker` · `CI/CD` · `Github Actions`
-
----
-
-## 💼 Experience Snapshot
-
-🧠 **Full-Stack Software Engineer** with over **4 years of experience** developing SaaS platforms, CRM systems, and e-commerce applications.
-
-🔧 **Tech Stack Expertise**: Laravel, React, Vue, MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, TailwindCSS, Docker, AWS (EC2, S3), GitHub Actions, OpenTelemetry.
-
-🚀 **Built and maintained a multi-module SaaS CRM platform**:
-- Developed scalable modules like Email Marketing, Funnel Builder, Cold Outreach, Team Inbox, and CMS Builder.
-- Engineered a granular permission-based team and sub-account management system.
-- Implemented Webhooks, background job processing with queues, and optimized large-scale email campaigns with SMTP rotation.
-- Boosted performance by restructuring queue systems and optimizing database queries, significantly reducing bottlenecks.
-
-🏢 **Worked on enterprise-grade applications**:
-- Built a financial management tool (ReactJS + Redux) with real-time reporting and secure auth.
-- Developed a comprehensive project management system using Laravel and React.
-- Created a secure eCommerce platform with OTP-based authentication and modern UI (Next.js).
-
-🛒 **Developed large-scale eCommerce platforms**:
-- Built a multi-vendor book selling platform with secure payments, vendor dashboards, and advanced filtering.
-- Launched a steel product eCommerce system with inventory/order workflows.
-- Developed a corporate website with responsive design, interactive portfolios, and brand-focused layout.
-
-🧾 **Created a Passport OCR microservice** using Python + EasyOCR to extract structured data from scanned documents, improving accuracy by 15% with preprocessing.
-
-💡 **Experienced in CI/CD**, Dockerized development, and cloud-native deployments (AWS EC2, S3).
-
-📈 Strong understanding of **design patterns**, **SOLID principles**, **DRY methodology**, and scalable system architecture.
-
-🧪 Proficient in building **REST APIs**, **GraphQL endpoints**, and handling **real-time data processing** via WebSocket and queues.
-
-🧩 Built **10+ real-world applications** across finance, eCommerce, marketing automation, and CRM—delivering real business value and innovation.
-
+### Engineering Practices
+- REST & GraphQL APIs  
+- MVC, SOLID, DRY  
+- CI/CD Pipelines  
+- Queue-based systems  
+- Event-driven architecture  
 
 ---
 
-## 🌐 Notable Projects
+## 💼 Professional Experience Highlights
 
-| Project        | Description |
-|----------------|-------------|
-| [Doplac CRM](https://app.doplac.com) | Saas CRM |
-| [Acceler8](https://acceler8.com.au) | Acceler8 Training is a service provider |
-| [Steel Bazar](https://steel-bazar.com) | Full-stack E-commerce Platform |
-| [EPEC](https://epec.com.bd) | Corporate website for steel solutions |
-| [Boisodai](https://boisodai.com) | Online book selling e-commerce |
-| [MakeTop](https://maketop.me) | Social media boosting & promotion tool |
-| [Hotovaga](https://hotovaga.com) | Modern blogging platform |
-| [Dubaievisaservice]([https://dubaievisaservice.com]) | Evisa Service |
+### 🧠 Full-Stack Software Engineer (SaaS / CRM)
 
----
-
-## 🚧 Currently Building
-
-- 🚀 A **time tracking desktop app** with screenshot, task, and project features.
-- 📱 A **mobile reminder app** with SQLite storage & custom notifications.
-- 🎯 Experimenting with **Flutter for cross-platform apps**.
-
----
-
-## 👨‍💻 How I Work
-
-- I love to **learn by building**—nothing beats solving real-world problems.
-- I believe in **clean, readable code** and **user-centric design**.
-- Strong advocate of **asynchronous workflows**, **queue-based processing**, and **performance optimization**.
+- Built and scaled a **multi-module SaaS CRM platform** used in real business environments
+- Designed modules including:
+  - Email Marketing
+  - Funnel Builder
+  - Cold Outreach
+  - Team Inbox
+  - CMS Builder
+- Implemented **granular role & permission systems** (teams, sub-accounts)
+- Engineered **high-volume email systems** with:
+  - Queue workers
+  - SMTP rotation
+  - Webhooks
+- Improved system performance by:
+  - Optimizing queue execution
+  - Refactoring heavy queries
+  - Reducing processing bottlenecks
 
 ---
 
-## 📚 Learning Interests
+### 🏢 Enterprise & Product-Based Applications
 
-- 🧠 Artificial Intelligence & Machine Learning
-- 🔒 Secure API development & OAuth flows
-- 🐳 DevOps (CI/CD, Docker Swarm, Kubernetes)
-- 📲 Cross-platform apps with Flutter
+- **Financial Management System**
+  - React + Redux
+  - Secure authentication
+  - Real-time reporting dashboards
+
+- **Project Management Platform**
+  - Laravel + React
+  - Role-based access
+  - Workflow automation
+
+- **Modern eCommerce Platforms**
+  - OTP-based authentication
+  - Vendor dashboards
+  - Inventory & order workflows
+  - Next.js-powered UI
 
 ---
 
-## 💬 Let’s Connect!
+### 🧾 OCR & Automation
 
-- 📧 **Email**: [manikmia.dev@gmail.com](mailto:manikmia.dev@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/dev-manik-mia](https://linkedin.com/in/dev-manik-mia)  
-- 🐦 **Twitter/X**: [@DevManikmia](https://x.com/DevManikmia)
+- Built a **Passport OCR Microservice**
+  - Python + EasyOCR
+  - Extracted structured data from scanned documents
+  - Improved accuracy by ~15% via preprocessing
 
 ---
 
-### 🙌 Thanks for visiting!
-Feel free to **star, fork, or collaborate** on interesting repositories. I’m always up for working on cool projects or just chatting about tech!
+## 🌐 Real-World Projects
 
+| Project | Description |
+|-------|------------|
+| **Doplac CRM** | Full-featured SaaS CRM platform |
+| **Acceler8** | Training & education service platform |
+| **Steel Bazar** | Multi-vendor eCommerce system |
+| **EPEC** | Corporate website for steel solutions |
+| **Boisodai** | Online book-selling platform |
+| **MakeTop** | Social media promotion & automation tool |
+| **Hotovaga** | Modern blogging platform |
+| **Dubai E-Visa Service** | Online visa processing system |
+
+---
+
+## 🚧 Currently Working On
+
+- ⏱️ **Desktop Time Tracking App**
+  - Screenshots, task tracking, project management
+
+- 📱 **Mobile Reminder App**
+  - SQLite
+  - Custom notification system
+
+- 🎯 Exploring **Flutter** for cross-platform apps
+
+---
+
+## 👨‍💻 Engineering Philosophy
+
+- Build **for scale**, even when starting small
+- Prefer **clarity over cleverness**
+- Love **async processing, queues & background jobs**
+- Focus on **business impact**, not just features
+
+---
+
+## 📚 Learning & Growth
+
+- Artificial Intelligence & Machine Learning
+- Secure API & OAuth flows
+- Kubernetes & advanced DevOps
+- Cross-platform apps with Flutter
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 Email: **manikmia.dev@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/dev-manik-mia
+- 🐦 Twitter/X: https://x.com/DevManikmia
+
+---
+
+### ⭐ Thanks for stopping by!
+
+If you’re:
+- Hiring a **reliable Full-Stack Engineer**
+- Building a **serious product**
+- Or just want to talk tech  
+
+👉 **Let’s connect. I’d love to collaborate.**
