@@ -126,16 +126,20 @@ I actively practice algorithms and data structures to sharpen my thinking.
 
 ## 🌐 Real-World Projects
 
+## 🌐 Real-World Projects
+
 | Project | Description |
-|-------|------------|
-| **Doplac CRM** | Full-featured SaaS CRM platform |
-| **Acceler8** | Training & education service platform |
-| **Steel Bazar** | Multi-vendor eCommerce system |
-| **EPEC** | Corporate website for steel solutions |
-| **Boisodai** | Online book-selling platform |
-| **MakeTop** | Social media promotion & automation tool |
-| **Hotovaga** | Modern blogging platform |
-| **Dubai E-Visa Service** | Online visa processing system |
+|--------|-------------|
+| **[Doplac CRM](https://app.doplac.com)** | Full-featured **SaaS CRM platform** with email marketing, funnels, automation, team inbox, and role-based permissions. |
+| **[Acceler8](https://acceler8.com.au)** | Training & education service platform with course management and enrollment workflows. |
+| **[IQTester](https://iqtester.com)** | Think You’re Smarter Than Average |
+| **[Steel Bazar](https://steel-bazar.com)** | **Multi-vendor eCommerce system** featuring inventory management, vendor dashboards, and order workflows. |
+| **[EPEC](https://epec.com.bd)** | Corporate website for a steel solutions company with a modern, responsive UI. |
+| **[Boisodai](https://boisodai.com)** | Online **book-selling eCommerce platform** with search, categories, and secure checkout. |
+| **[MakeTop](https://maketop.me)** | Social media **promotion & automation tool** designed for growth and engagement. |
+| **[Hotovaga](https://hotovaga.com)** | Modern blogging platform with CMS features and SEO-friendly architecture. |
+| **[Dubai E-Visa Service](https://dubaievisaservice.com)** | Secure online visa processing system with application workflows and document handling. |
+
 
 ---
 
