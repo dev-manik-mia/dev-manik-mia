@@ -68,7 +68,7 @@ I actively practice algorithms and data structures to sharpen my thinking.
 ### Frontend
 - HTML, CSS, Bootstrap, TailwindCSS  
 - JavaScript, TypeScript  
-- Vue.js, React.js, Next.js  
+- Vue.js, React.js, Next.js, Nuxt.js
 - Inertia.js, Livewire  
 - State Management: Redux, RTK Query, Pinia  
 
