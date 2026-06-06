@@ -1,7 +1,9 @@
 <!-- ===================== HERO ===================== -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=220&section=header&text=Manik%20Mia&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Senior%20Full-Stack%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Automation%20Engineer&descAlignY=62&descSize=20" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=900&center=true&vCenter=true&width=900&lines=Manik+Mia;Senior+Full-Stack+Engineer;SaaS+Architect+%7C+System+Designer+%7C+Automation+Engineer;Building+Scalable+Cloud+Systems+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=900&color=8B5CF6&lines=Building+Scalable+Cloud+Systems+%F0%9F%9A%80;Laravel+%7C+Vue+%7C+React+%7C+Node.js+%7C+Go;SaaS+%7C+CRM+%7C+Automation+%7C+AI-Powered+Features" />
 </p>
 
 <p align="center">
@@ -314,3 +316,5 @@ I actively sharpen algorithmic thinking — especially for system design, optimi
   <strong>Open to senior engineering roles — full-time, contract, or remote.</strong><br/><br/>
   ⭐ If you're building SaaS, automation, or scalable systems — <strong>let's collaborate.</strong>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=120&section=footer" />
