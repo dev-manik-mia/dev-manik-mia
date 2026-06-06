@@ -29,7 +29,7 @@
 
 ## 👋 About Me
 
-I'm **Manik Mia**, a **Senior Full-Stack Engineer & SaaS Architect** with **4+ years of experience** building **production-scale systems that run real businesses**.
+I'm **Manik Mia**, a **Senior Full-Stack Engineer & SaaS Architect** with **5+ years of experience** building **production-scale systems that run real businesses**.
 
 I don't just write code — I design systems that **handle load, stay maintainable, and deliver measurable business outcomes**.
 
@@ -51,7 +51,7 @@ I've shipped features, debugged production incidents, and scaled systems — not
 ## 📊 Impact Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/LeetCode-225%2B%20Solved-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/SaaS-CRM%20%7C%20Automation%20Built-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/System%20Design-Production%20Grade-red?style=flat-square" />
