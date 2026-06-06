@@ -97,6 +97,17 @@ I've shipped features, debugged production incidents, and scaled systems — not
 
 > Proficiency legend: 🟢 **Master** — production depth · 🟡 **Adept** — shipped & comfortable · 🔴 **Familiar** — working knowledge
 
+### 🧬 AI / ML Engineering
+*Embeddings, retrieval & semantic search*
+
+| Skill | Description | Level |
+|-------|-------------|-------|
+| RAG | Retrieval-Augmented Generation pipelines | 🟡 Adept |
+| Embeddings | Text & semantic embedding models & APIs | 🟡 Adept |
+| Vector Databases | Semantic search with Milvus, Qdrant & pgvector | 🟡 Adept |
+
+---
+
 ### ⚙️ Backend Stacks
 *APIs & services that ship*
 
@@ -175,17 +186,6 @@ I've shipped features, debugged production incidents, and scaled systems — not
 | Amp Code | AI-powered coding agent for complex tasks | 🟢 Master |
 | Codex | OpenAI's AI model for code understanding | 🟢 Master |
 | MCP Server | Model Context Protocol servers for AI tooling | 🟡 Adept |
-
----
-
-### 🧬 AI / ML Engineering
-*Embeddings, retrieval & semantic search*
-
-| Skill | Description | Level |
-|-------|-------------|-------|
-| RAG | Retrieval-Augmented Generation pipelines | 🟡 Adept |
-| Embeddings | Text & semantic embedding models & APIs | 🟡 Adept |
-| Vector Databases | Semantic search with Milvus, Qdrant & pgvector | 🟡 Adept |
 
 ---
 
