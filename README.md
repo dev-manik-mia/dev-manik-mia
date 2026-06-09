@@ -102,9 +102,9 @@ I've shipped features, debugged production incidents, and scaled systems — not
 
 | Skill | Description | Level |
 |-------|-------------|-------|
-| RAG | Retrieval-Augmented Generation pipelines | 🟡 Adept |
-| Embeddings | Text & semantic embedding models & APIs | 🟡 Adept |
-| Vector Databases | Semantic search with Milvus, Qdrant & pgvector | 🟡 Adept |
+| RAG | Retrieval-Augmented Generation pipelines | 🟢 Master |
+| Embeddings | Text & semantic embedding models & APIs | 🟢 Master |
+| Vector Databases | Semantic search with Milvus, Qdrant & pgvector | 🟢 Master |
 
 ---
 
