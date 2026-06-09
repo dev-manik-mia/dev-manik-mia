@@ -71,7 +71,7 @@ I've shipped features, debugged production incidents, and scaled systems — not
 |---|---------|-------|------|
 | 1 | **[NOBS Marketplace](https://nobsmarketplace.com)** — Wholesale SEO marketplace serving professionals since 2014 | `Laravel` `Livewire` `jQuery` `MySQL` `Docker` `Redis` | ✅ |
 | 2 | **[Doplac CRM](https://www.doplac.com)** — Full SaaS CRM: email marketing, funnels, automation, CMS builder | `Laravel` `Vue.js` `Inertia.js` `MySQL` `Redis` | ✅ |
-| 3 | **AdminHub — HR Platform** — AI-powered HR: RAG candidate scoring, payroll, leave, evaluations | `Laravel` `Vue.js` `MySQL` `RAG` `Embeddings` `OpenAI` | — |
+| 3 | **AdminHub (https://hr.softonique.com) — HR Platform** — AI-powered HR: RAG candidate scoring, payroll, leave, evaluations | `Laravel` `Vue.js` `MySQL` `RAG` `Embeddings` `OpenAI` | — |
 | 4 | **[Bidyangon](https://bidyangon.com)** — SaaS school management with Student & Institute mobile apps | `Laravel` `Vue.js` `React Native` `MySQL` | ✅ |
 | 5 | **[Acceler8](https://www.acceler8.com.au)** — Training marketplace with course search, booking & payments | `NestJS` `Nuxt.js` `MySQL` `Redis` `Docker` | ✅ |
 | 6 | **[Dubai E-Visa](https://dubaievisaservice.com)** — Visa portal with automated passport OCR extraction | `Laravel` `React` `Inertia.js` `MySQL` | ✅ |
@@ -123,16 +123,16 @@ I've shipped features, debugged production incidents, and scaled systems — not
 | MySQL | Relational database management | 🟢 Master |
 | Linux Servers | Hosting, deployment & server management | 🟢 Master |
 | DragonflyDB | Modern in-memory database | 🟢 Master |
+| Redis | In-memory cache & queue system | 🔴 Master |
 | FastAPI / Django | Production-ready Python APIs | 🟡 Adept |
 | Docker | Containerization & deployment | 🟡 Adept |
 | Kubernetes | Container orchestration & scaling | 🟡 Adept |
 | RabbitMQ | Message broker for async processing | 🟡 Adept |
+| Go | High-performance backend services | 🔴 Adept |
 | PostgreSQL | Advanced relational database | 🔴 Familiar |
 | MongoDB | NoSQL document database | 🔴 Familiar |
 | Python | Automation, scripting & backend services | 🔴 Familiar |
-| Go | High-performance backend services | 🔴 Familiar |
 | C/C++ | Core toolchains & system bindings | 🔴 Familiar |
-| Redis | In-memory cache & queue system | 🔴 Familiar |
 
 ---
 
