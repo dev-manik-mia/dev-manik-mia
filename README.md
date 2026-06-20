@@ -97,6 +97,18 @@ I've shipped features, debugged production incidents, and scaled systems — not
 
 > Proficiency legend: 🟢 **Master** — production depth · 🟡 **Adept** — shipped & comfortable · 🔴 **Familiar** — working knowledge
 
+---
+
+## 🚀 Open Source Contributions
+
+| Package | Description | Status |
+|----------|------------|---------|
+| **[Neuro](https://github.com/dev-manik-mia/neuro)** | Event-driven Laravel microservice communication package supporting Redis, RabbitMQ, Kafka, and HTTP transports | ✅ Active |
+| **[Nexus](https://github.com/dev-manik-mia/nexus)** | Laravel package for scalable service integration and application architecture | ✅ Active |
+
+---
+
+
 ### 🧬 AI / ML Engineering
 *Embeddings, retrieval & semantic search*
 
