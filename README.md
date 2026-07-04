@@ -71,7 +71,7 @@ I've shipped features, debugged production incidents, and scaled systems — not
 |---|---------|-------|------|
 | 1 | **[NOBS Marketplace](https://nobsmarketplace.com)** — Wholesale SEO marketplace serving professionals since 2014 | `Laravel` `Livewire` `jQuery` `MySQL` `Docker` `Redis` | ✅ |
 | 2 | **[Doplac CRM](https://www.doplac.com)** — Full SaaS CRM: email marketing, funnels, automation, CMS builder | `Laravel` `Vue.js` `Inertia.js` `MySQL` `Redis` | ✅ |
-| 3 | **AdminHub — HR Platform** — AI-powered HR: RAG candidate scoring, payroll, leave, evaluations | `Laravel` `Vue.js` `MySQL` `RAG` `Embeddings` `OpenAI` | — |
+| 3 | **[AdminHub — HR Platform](https://hr.softonique.com/)** — AI-powered HR: RAG candidate scoring, payroll, leave, evaluations | `Laravel` `Vue.js` `MySQL` `RAG` `Embeddings` `OpenAI` | ✅ |
 | 4 | **[Bidyangon](https://bidyangon.com)** — SaaS school management with Student & Institute mobile apps | `Laravel` `Vue.js` `React Native` `MySQL` | ✅ |
 | 5 | **[Acceler8](https://www.acceler8.com.au)** — Training marketplace with course search, booking & payments | `NestJS` `Nuxt.js` `MySQL` `Redis` `Docker` | ✅ |
 | 6 | **[Dubai E-Visa](https://dubaievisaservice.com)** — Visa portal with automated passport OCR extraction | `Laravel` `React` `Inertia.js` `MySQL` | ✅ |
@@ -81,7 +81,7 @@ I've shipped features, debugged production incidents, and scaled systems — not
 | 10 | **[HSC ICT Pro](https://play.google.com/store/apps/details?id=com.manikmia.hscictpro)** — Offline Android practice app (MCQs, chapter drills) | `React Native` `Android` `SQLite` | ✅ |
 | 11 | **[Steel Bazar](https://steel-bazar.com)** — Steel eCommerce with vendor management & order processing | `Laravel` `jQuery` `Bootstrap` `MySQL` | ✅ |
 | 12 | **[EPEC](https://epec.com.bd)** — Corporate eCommerce with reporting & multi-vendor support | `Laravel` `jQuery` `Bootstrap` `MySQL` | ✅ |
-| 13 | **Hotovaga** — Smart blog with rich editor, SEO optimization & author profiles | `Laravel` `jQuery` `Bootstrap` `MySQL` | — |
+| 13 | **[Hotovaga](https://hotovaga.com)** — Smart blog with rich editor, SEO optimization & author profiles | `Laravel` `jQuery` `Bootstrap` `MySQL` | ✅ |
 | 14 | **CashFlow** — Account & cash management with real-time dashboards & Redux | `Laravel` `React` `Redux` `MySQL` | — |
 | 15 | **Project Management App** — Task boards, time tracking, team collaboration & analytics | `Laravel` `React` `Redux` `MySQL` | — |
 
