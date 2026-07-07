@@ -135,7 +135,7 @@ I've shipped features, debugged production incidents, and scaled systems — not
 | MySQL | Relational database management | 🟢 Master |
 | Linux Servers | Hosting, deployment & server management | 🟢 Master |
 | DragonflyDB | Modern in-memory database | 🟢 Master |
-| Redis | In-memory cache & queue system | 🔴 Master |
+| Redis | In-memory cache & queue system | 🟢 Master |
 | FastAPI / Django | Production-ready Python APIs | 🟡 Adept |
 | Docker | Containerization & deployment | 🟡 Adept |
 | Kubernetes | Container orchestration & scaling | 🟡 Adept |
