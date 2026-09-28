@@ -151,6 +151,7 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 | **[Halal Pages](https://halalpages.co.uk)** 🆕 | UK halal business directory, mosque finder & prayer times · web + app | `NestJS` `PostgreSQL` `Redis` `Next.js` `React Native` |
 | **[AIT](https://ait.edu.bd)** | IT institute platform: admissions, courses, notices · web + app | `Laravel` `Inertia` `Vue` `React Native` |
 | **[ICT Learn Hub](https://ictlearnhub.bidyangon.com)** | Timed online MCQ exams for NTRCA ICT candidates | `Laravel` `Vue` `MySQL` |
+| **[SoftLaunching](https://softlaunching.net)** | Product launch community: scheduled launches, upvotes, ratings, comments & maker leaderboard | `Laravel` `Inertia` `Vue 3` `MySQL` |
 | **[Doplac CRM](https://www.doplac.com)** | SaaS CRM: email marketing, funnels, automation, CMS | `Laravel` `Vue` `Inertia` `Redis` |
 | **[AdminHub](https://hr.softonique.com/)** | AI HR: RAG candidate scoring, payroll, leave | `Laravel` `Vue` `RAG` `OpenAI` |
 | **[Bidyangon](https://bidyangon.com)** | SaaS school management with mobile apps | `Laravel` `Vue` `React Native` |
