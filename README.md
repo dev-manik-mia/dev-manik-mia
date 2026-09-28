@@ -1,60 +1,64 @@
 <!-- ===================== HERO ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=220&section=header&text=Manik%20Mia&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20SaaS%20Architect%20%C2%B7%20Web%20%2B%20Mobile&descAlignY=62&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0D9488&height=230&section=header&text=Manik%20Mia&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Web%20%2B%20Mobile&descAlignY=60&descSize=19" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=900&color=8B5CF6&lines=I+take+products+from+idea+to+production;Web+%2B+Mobile+%2B+Infrastructure+%E2%80%94+end+to+end;NestJS+%7C+Laravel+%7C+Next.js+%7C+Vue+%7C+React+Native;SaaS+%7C+Marketplaces+%7C+EdTech+%7C+AI-Powered+Features" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1200&color=14B8A6&center=true&vCenter=true&width=820&lines=From+idea+to+production+%E2%80%94+web%2C+mobile+and+infrastructure;Building+Compel%3A+advertising+for+the+AI+search+era;NestJS+%C2%B7+Laravel+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+React+Native;I+ship+systems+businesses+actually+run+on" />
 </p>
 
+<h3 align="center">I help companies launch and scale revenue-generating products,<br/>owning the whole stack so there are fewer hand-offs and faster releases.</h3>
+
 <p align="center">
-  <a href="https://manikmia.com"><img src="https://img.shields.io/badge/Portfolio-manikmia.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/dev-manik-mia"><img src="https://img.shields.io/badge/LinkedIn-Manik%20Mia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manikmia.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:manikmia.dev@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-manikmia.dev%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
+  <a href="https://linkedin.com/in/dev-manik-mia"><img src="https://img.shields.io/badge/LinkedIn-dev--manik--mia-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" /></a>
+  <a href="https://manikmia.com"><img src="https://img.shields.io/badge/Portfolio-manikmia.com-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" /></a>
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="170"><h2>5+</h2><sub>YEARS IN PRODUCTION</sub></td>
+    <td align="center" width="170"><h2>20+</h2><sub>PRODUCTS SHIPPED</sub></td>
+    <td align="center" width="170"><h2>Web · iOS · Android</h2><sub>ONE ENGINEER</sub></td>
+    <td align="center" width="170"><h2>UK · AU · UAE · BD</h2><sub>CLIENT MARKETS</sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>🔥 <b>Now building</b> <a href="https://compel.ad">Compel</a> &nbsp;·&nbsp; 🆕 <b>Recently launched</b> <a href="https://halalpages.co.uk">Halal Pages</a> &nbsp;·&nbsp; ✅ <b>Open to</b> senior roles &amp; product builds</sub>
 </p>
 
 ---
 
-## 👋 In One Paragraph
+## 👋 About Me
 
-I'm **Manik Mia**, a **Senior Full-Stack Engineer** with **5+ years** of shipping **production systems that businesses run on** — SaaS CRMs, marketplaces, EdTech platforms and AI-powered tools, across **web, mobile and infrastructure**.
+I'm a **Senior Full-Stack Engineer** with **5+ years** of shipping **production systems that businesses run on**, including SaaS CRMs, marketplaces, EdTech platforms, ad-tech and AI-powered tools.
 
-I own products **end to end**: architecture, backend, frontend, the React Native app, the database, and the Ubuntu VPS it all runs on. That means fewer hand-offs, faster releases, and one person accountable for the whole system.
+I own products **end to end**: the architecture, backend, frontend, React Native app, database, and the Linux server it all runs on. One accountable engineer, from the first commit to the production dashboard.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 For CEOs & Founders
-- **Idea → launched product**, without a big team
-- **Web + iOS/Android** from one engineer
-- Built for **revenue**: subscriptions, payments, onboarding
-- Low running costs — lean VPS infra, not bloated cloud bills
+#### 💼 What CEOs & Founders get
+- **Idea → launched product** without a big team
+- **Web + iOS/Android** from a single engineer
+- Features that drive **revenue**: subscriptions, payments, onboarding
+- **Lean running costs**, with right-sized infrastructure instead of oversized cloud bills
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ For CTOs & Engineering Leads
+#### 🛠️ What CTOs & Tech Leads get
 - **Clean, modular architecture** that survives team changes
-- **Async-first**: queues, workers, event-driven pipelines
-- **Performance**: Redis caching, query tuning, N+1 hunting
-- **Ops-aware**: Linux, NGINX, Docker, CI/CD, zero-downtime deploys
+- **Async-first design** with queues, workers and event-driven pipelines
+- **Performance work**: Redis caching, query tuning, N+1 elimination
+- **Ops ownership**: Linux, NGINX, Docker, CI/CD, zero-downtime deploys
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 At a Glance
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Products%20Shipped-19%2B-8b5cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mobile%20Apps-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Markets-UK%20%C2%B7%20AU%20%C2%B7%20UAE%20%C2%B7%20BD-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-Laravel%20Packages-f59e0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/LeetCode-225%2B%20Solved-yellow?style=flat-square&logo=leetcode&logoColor=black" />
-</p>
 
 ---
 
@@ -215,28 +219,51 @@ I own products **end to end**: architecture, backend, frontend, the React Native
 
 ## 🤝 Let's Build Something
 
-<p align="center">
-  <strong>Open to senior full-stack / backend roles and product builds — full-time, contract or remote.</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:manikmia.dev@gmail.com"><img src="https://img.shields.io/badge/Email-manikmia.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/dev-manik-mia"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://manikmia.com"><img src="https://img.shields.io/badge/Website-manikmia.com-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://x.com/DevManikmia"><img src="https://img.shields.io/badge/X-@DevManikmia-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
-<details>
-<summary>📊 Problem solving & older work</summary>
+<table align="center">
+<tr>
+<td align="center" width="900">
 
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dev-manik-mia?theme=light&font=Risque)
+### Have a product to launch, or a system that needs to scale?
 
-**225+ LeetCode problems** — arrays, trees, graphs, dynamic programming, sliding window.
+I'm open to **senior full-stack / backend roles** and **end-to-end product builds**.<br/>
+Full-time, contract or remote.
+
+<br/>
+
+| 🚀 **Launch** | 📈 **Scale** | 🧭 **Lead** |
+|:---:|:---:|:---:|
+| MVP to production on web & mobile | Performance, queues, caching and infra | Architecture, code reviews and technical direction |
+
+<br/>
+
+<a href="mailto:manikmia.dev@gmail.com"><img src="https://img.shields.io/badge/Email-manikmia.dev%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
+<a href="https://linkedin.com/in/dev-manik-mia"><img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" /></a>
+<a href="https://manikmia.com"><img src="https://img.shields.io/badge/Website-manikmia.com-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" /></a>
+<a href="https://x.com/DevManikmia"><img src="https://img.shields.io/badge/X-@DevManikmia-334155?style=for-the-badge&logo=x&logoColor=white&labelColor=0F172A" /></a>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📊 Problem solving & older work</b></summary>
+
+<br/>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dev-manik-mia?theme=nord&border=0&radius=12" alt="LeetCode stats" />
+</p>
+
+**225+ LeetCode problems** across arrays, trees, graphs, dynamic programming and sliding window.
 
 This is my **primary GitHub profile**. Earlier projects live at **[github.com/manik-mia](https://github.com/manik-mia)**.
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a78bfa&height=120&section=footer" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,45:1E3A8A,100:0F172A&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=22&fontColor=FFFFFF&fontAlignY=72" />
