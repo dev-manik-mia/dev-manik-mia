@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0D9488&height=230&section=header&text=Manik%20Mia&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Product%20Builder%20%C2%B7%20Web%20%2B%20Mobile&descAlignY=60&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0D9488&height=230&section=header&text=Manik%20Mia&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Forward%20Deployed%20Engineer%20%C2%B7%20Web%20%2B%20Mobile&descAlignY=60&descSize=19" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1200&color=14B8A6&center=true&vCenter=true&width=820&lines=From+idea+to+production+%E2%80%94+web%2C+mobile+and+infrastructure;Building+Compel%3A+advertising+for+the+AI+search+era;NestJS+%C2%B7+Laravel+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+React+Native;I+ship+systems+businesses+actually+run+on" />
@@ -33,9 +33,9 @@
 
 ## 👋 About Me
 
-I'm a **Senior Full-Stack Engineer** with **5+ years** of shipping **production systems that businesses run on**, including SaaS CRMs, marketplaces, EdTech platforms, ad-tech and AI-powered tools.
+I'm a **Senior Full-Stack Engineer** and **Forward Deployed Engineer** with **5+ years** of shipping **production systems that businesses run on**, including SaaS CRMs, marketplaces, EdTech platforms, ad-tech and AI-powered tools.
 
-I own products **end to end**: the architecture, backend, frontend, React Native app, database, and the Linux server it all runs on. One accountable engineer, from the first commit to the production dashboard.
+I own products **end to end**: the architecture, backend, frontend, React Native app, database, and the Linux server it all runs on. One accountable engineer, from the first commit to the production dashboard. As a forward deployed engineer, I work directly with clients and their teams to turn real business problems into shipped software.
 
 <table>
 <tr>
@@ -110,7 +110,7 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 - **Freemium monetisation** — free sign-up with paid monthly tiers for more exams
 - Fully Bengali interface, part of the **Bidyangon** EdTech ecosystem
 
-`Laravel` `Vue.js` `MySQL` `Subscriptions`
+`Cloudflare Workers` `Hono` `Cloudflare D1` `Next.js` `Subscriptions`
 
 ---
 
@@ -150,7 +150,7 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 | **[Compel](https://compel.ad)** 🔥 | Ad-tech platform for brand visibility in AI answers, with a network of 110K+ publishers | `Ad-Tech` `AI Search` `SaaS` |
 | **[Halal Pages](https://halalpages.co.uk)** 🆕 | UK halal business directory, mosque finder & prayer times · web + app | `NestJS` `PostgreSQL` `Redis` `Next.js` `React Native` |
 | **[AIT](https://ait.edu.bd)** | IT institute platform: admissions, courses, notices · web + app | `Laravel` `Inertia` `Vue` `React Native` |
-| **[ICT Learn Hub](https://ictlearnhub.bidyangon.com)** | Timed online MCQ exams for NTRCA ICT candidates | `Laravel` `Vue` `MySQL` |
+| **[ICT Learn Hub](https://ictlearnhub.bidyangon.com)** | Timed online MCQ exams for NTRCA ICT candidates | `Cloudflare` `Hono` `D1` `Next.js` |
 | **[SoftLaunching](https://softlaunching.net)** | Product launch community: scheduled launches, upvotes, ratings, comments & maker leaderboard | `Laravel` `Inertia` `Vue 3` `MySQL` |
 | **[Doplac CRM](https://www.doplac.com)** | SaaS CRM: email marketing, funnels, automation, CMS | `Laravel` `Vue` `Inertia` `Redis` |
 | **[AdminHub](https://hr.softonique.com/)** | AI HR: RAG candidate scoring, payroll, leave | `Laravel` `Vue` `RAG` `OpenAI` |
@@ -173,17 +173,17 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 
 | Domain | Production-proven | Working knowledge |
 |---|---|---|
-| **Backend** | Laravel · NestJS · Node.js · Express · AdonisJS · PHP · TypeScript | Go · FastAPI · Django |
+| **Backend** | Laravel · NestJS · Node.js · Hono · Express · AdonisJS · PHP · TypeScript | Go · FastAPI · Django |
 | **Frontend** | Next.js · Nuxt · React · Vue 3 · Inertia.js · TailwindCSS | Svelte · Alpine.js |
 | **Mobile** | React Native (iOS & Android) | — |
-| **Data** | PostgreSQL · MySQL · Redis · DragonflyDB · SQLite | MongoDB |
+| **Data** | PostgreSQL · MySQL · Redis · DragonflyDB · SQLite · Cloudflare D1 | MongoDB |
 | **Messaging** | Redis queues · RabbitMQ · event-driven workers | Kafka |
 | **AI / ML** | RAG · Embeddings · pgvector · Qdrant · Milvus · OpenAI | — |
-| **Infra & DevOps** | Ubuntu/Linux · NGINX · Docker · CI/CD (GitHub/GitLab) · Bash · SSH | Kubernetes · FrankenPHP · AWS |
+| **Infra & DevOps** | Ubuntu/Linux · NGINX · Docker · Cloudflare Workers · CI/CD (GitHub/GitLab) · Bash · SSH | Kubernetes · FrankenPHP · AWS |
 | **AI Dev Tools** | Claude Code · GitHub Copilot · Codex · MCP servers | — |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,ts,php,nextjs,react,vue,nuxtjs,tailwind,postgres,mysql,redis,docker,nginx,linux,ubuntu,githubactions&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,ts,php,nextjs,react,vue,nuxtjs,tailwind,postgres,mysql,redis,docker,cloudflare,nginx,linux,ubuntu,githubactions&perline=9" />
 </p>
 
 ---
@@ -228,7 +228,7 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 
 ### Have a product to launch, or a system that needs to scale?
 
-I'm open to **senior full-stack / backend roles** and **end-to-end product builds**.<br/>
+I'm open to **senior full-stack / backend / forward deployed engineer roles** and **end-to-end product builds**.<br/>
 Full-time, contract or remote.
 
 <br/>
