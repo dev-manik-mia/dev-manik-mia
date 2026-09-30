@@ -21,7 +21,7 @@
     <td align="center" width="170"><h2>5+</h2><sub>YEARS IN PRODUCTION</sub></td>
     <td align="center" width="170"><h2>20+</h2><sub>PRODUCTS SHIPPED</sub></td>
     <td align="center" width="170"><h2>Web · iOS · Android</h2><sub>ONE ENGINEER</sub></td>
-    <td align="center" width="170"><h2>UK · AU · UAE · BD</h2><sub>CLIENT MARKETS</sub></td>
+    <td align="center" width="170"><h2>🌍 Global</h2><sub>CLIENTS WORLDWIDE</sub></td>
   </tr>
 </table>
 
