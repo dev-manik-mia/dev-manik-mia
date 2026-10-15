@@ -1,9 +1,9 @@
 <!-- ===================== HERO ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0D9488&height=230&section=header&text=Manik%20Mia&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Forward%20Deployed%20Engineer%20%C2%B7%20Web%20%2B%20Mobile&descAlignY=60&descSize=19" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:0D9488&height=230&section=header&text=Manik%20Mia&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Forward%20Deployed%20Engineer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20Desktop&descAlignY=60&descSize=19" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1200&color=14B8A6&center=true&vCenter=true&width=820&lines=From+idea+to+production+%E2%80%94+web%2C+mobile+and+infrastructure;Building+Compel%3A+advertising+for+the+AI+search+era;NestJS+%C2%B7+Laravel+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+React+Native;I+ship+systems+businesses+actually+run+on" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1200&color=14B8A6&center=true&vCenter=true&width=820&lines=From+idea+to+production+%E2%80%94+web%2C+mobile+and+infrastructure;Building+Compel%3A+advertising+for+the+AI+search+era;NestJS+%C2%B7+Laravel+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+React+Native;Rust+%2B+Tauri+desktop+apps+%E2%80%94+DataQuery+%26+BanglaOkkhor;I+ship+systems+businesses+actually+run+on" />
 </p>
 
 <h3 align="center">I help companies launch and scale revenue-generating products,<br/>owning the whole stack so there are fewer hand-offs and faster releases.</h3>
@@ -20,22 +20,22 @@
   <tr>
     <td align="center" width="170"><h2>5+</h2><sub>YEARS IN PRODUCTION</sub></td>
     <td align="center" width="170"><h2>20+</h2><sub>PRODUCTS SHIPPED</sub></td>
-    <td align="center" width="170"><h2>Web · iOS · Android</h2><sub>ONE ENGINEER</sub></td>
+    <td align="center" width="170"><h2>Web · Mobile · Desktop</h2><sub>ONE ENGINEER</sub></td>
     <td align="center" width="170"><h2>🌍 Global</h2><sub>CLIENTS WORLDWIDE</sub></td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>🔥 <b>Now building</b> <a href="https://compel.ad">Compel</a> &nbsp;·&nbsp; 🆕 <b>Recently launched</b> <a href="https://halalpages.co.uk">Halal Pages</a> &nbsp;·&nbsp; ✅ <b>Open to</b> senior roles &amp; product builds</sub>
+  <sub>🔥 <b>Now building</b> <a href="https://compel.ad">Compel</a> &nbsp;·&nbsp; 🆕 <b>Recently launched</b> <a href="https://dataquery.manikmia.com">DataQuery</a>, <a href="https://bangla-okkhor.manikmia.com">BanglaOkkhor</a> &amp; <a href="https://halalpages.co.uk">Halal Pages</a> &nbsp;·&nbsp; ✅ <b>Open to</b> senior roles &amp; product builds</sub>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm a **Senior Full-Stack Engineer** and **Forward Deployed Engineer** with **5+ years** of shipping **production systems that businesses run on**, including SaaS CRMs, marketplaces, EdTech platforms, ad-tech and AI-powered tools.
+I'm a **Senior Full-Stack Engineer** and **Forward Deployed Engineer** with **5+ years** of shipping **production systems that businesses run on**, including SaaS CRMs, marketplaces, EdTech platforms, ad-tech, AI-powered tools and cross-platform desktop apps written in Rust.
 
-I own products **end to end**: the architecture, backend, frontend, React Native app, database, and the Linux server it all runs on. One accountable engineer, from the first commit to the production dashboard. As a forward deployed engineer, I work directly with clients and their teams to turn real business problems into shipped software.
+I own products **end to end**: the architecture, backend, frontend, React Native app, Rust desktop client, database, and the Linux server it all runs on. One accountable engineer, from the first commit to the production dashboard. As a forward deployed engineer, I work directly with clients and their teams to turn real business problems into shipped software.
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 
 #### 💼 What CEOs & Founders get
 - **Idea → launched product** without a big team
-- **Web + iOS/Android** from a single engineer
+- **Web, iOS/Android and desktop** from a single engineer
 - Features that drive **revenue**: subscriptions, payments, onboarding
 - **Lean running costs**, with right-sized infrastructure instead of oversized cloud bills
 
@@ -87,6 +87,36 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 - **Self-managed infra** — deployed and operated on an Ubuntu VPS (NGINX, process management, TLS)
 
 `NestJS` `PostgreSQL` `Redis` `Next.js` `TailwindCSS` `React Native` `Ubuntu VPS`
+
+---
+
+### 🗄️ [DataQuery](https://dataquery.manikmia.com) — Desktop Database Client · *New · Open source*
+> *"The database client that stays out of your way."* A fast, local-first desktop app for **browsing schemas, writing queries and editing data across 18 database engines**. It's free, with no account and no telemetry. ([source](https://github.com/dev-manik-mia/DataQuery))
+
+- **18 engines, one app:** PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, CockroachDB, ClickHouse, DuckDB, Snowflake, Redis, Valkey, Dragonfly, MongoDB, DynamoDB, Cassandra, ScyllaDB, Elasticsearch and Neo4j
+- **An adapter for each engine:** each has its own explorer, such as a Redis key browser, a MongoDB document view and partition-key-aware Cassandra
+- **Responsive on big data:** queries run off the UI thread with a live timer and a real cancel, and results load in pages
+- **Safe editing:** edit cells inline, review the generated SQL, then commit in one transaction
+- **Production guardrails:** production connections get a red frame, and `DROP`, `TRUNCATE` or an unscoped `DELETE` asks you to type the connection name
+- **Secure by default:** passwords go to the OS keychain, and connections, scripts and history stay on your machine
+- **Opt-in AI assistant:** bring your own key (Claude, OpenAI, Gemini, DeepSeek, Mistral or any OpenAI-compatible API). Generated SQL never runs on its own
+- Signed builds for **macOS (Apple Silicon and Intel), Windows and Linux**
+
+`Rust` `Tauri 2` `React 19` `TypeScript` `CodeMirror` `Zustand`
+
+---
+
+### ⌨️ [BanglaOkkhor](https://bangla-okkhor.manikmia.com) — Bangla Keyboard for Desktop · *New · Open source*
+> *"Type Bangla anywhere, with Bijoy71 or Avro."* A free, MIT-licensed system keyboard that works in **any app**, including Google Docs, Word, Pages, LibreOffice, browsers and chat. ([source](https://github.com/dev-manik-mia/bangla-okkhor-app))
+
+- **Two layouts:** Bijoy71 (with vowel signs placed correctly) and Avro Phonetic (`ami` → আমি). English is one switch away
+- **Word suggestions** while you type, picked with keys 1–4
+- **SutonnyMJ ⇄ Unicode converter** for legacy newspaper and document archives
+- **Floating widget:** a small translucent panel for suggestions and one-click conversion
+- **Bilingual UI** (Bangla and English) with light and dark modes
+- Ships for **macOS 11+ (universal), Windows 10/11 and Linux** (`.dmg`, `.msi`/`.exe`, `.AppImage`/`.deb`)
+
+`Rust` `Tauri 2` `React` `TypeScript` `Input Methods`
 
 ---
 
@@ -149,6 +179,8 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 |---|---|---|
 | **[Compel](https://compel.ad)** 🔥 | Ad-tech platform for brand visibility in AI answers, with a network of 110K+ publishers | `Ad-Tech` `AI Search` `SaaS` |
 | **[Halal Pages](https://halalpages.co.uk)** 🆕 | UK halal business directory, mosque finder & prayer times · web + app | `NestJS` `PostgreSQL` `Redis` `Next.js` `React Native` |
+| **[DataQuery](https://dataquery.manikmia.com)** 🆕 | Free, local-first desktop database client for 18 engines (SQL, NoSQL, search, graph) | `Rust` `Tauri` `React` `TypeScript` |
+| **[BanglaOkkhor](https://bangla-okkhor.manikmia.com)** 🆕 | Open-source Bangla keyboard (Bijoy71 + Avro) for macOS, Windows and Linux | `Rust` `Tauri` `React` `TypeScript` |
 | **[AIT](https://ait.edu.bd)** | IT institute platform: admissions, courses, notices · web + app | `Laravel` `Inertia` `Vue` `React Native` |
 | **[ICT Learn Hub](https://ictlearnhub.bidyangon.com)** | Timed online MCQ exams for NTRCA ICT candidates | `Cloudflare` `Hono` `D1` `Next.js` |
 | **[SoftLaunching](https://softlaunching.net)** | Product launch community: scheduled launches, upvotes, ratings, comments & maker leaderboard | `Laravel` `Inertia` `Vue 3` `MySQL` |
@@ -173,17 +205,18 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 
 | Domain | Production-proven | Working knowledge |
 |---|---|---|
-| **Backend** | Laravel · NestJS · Node.js · Hono · Express · AdonisJS · PHP · TypeScript | Go · FastAPI · Django |
+| **Backend** | Laravel · NestJS · Node.js · Hono · Express · AdonisJS · PHP · TypeScript · Rust | Go · FastAPI · Django |
 | **Frontend** | Next.js · Nuxt · React · Vue 3 · Inertia.js · TailwindCSS | Svelte · Alpine.js |
 | **Mobile** | React Native (iOS & Android) | — |
-| **Data** | PostgreSQL · MySQL · Redis · DragonflyDB · SQLite · Cloudflare D1 | MongoDB |
+| **Desktop** | Rust · Tauri 2 (macOS, Windows & Linux) | — |
+| **Data** | PostgreSQL · MySQL · Redis · DragonflyDB · SQLite · Cloudflare D1 | MongoDB · ClickHouse · DuckDB · Cassandra · Elasticsearch · Neo4j |
 | **Messaging** | Redis queues · RabbitMQ · event-driven workers | Kafka |
 | **AI / ML** | RAG · Embeddings · pgvector · Qdrant · Milvus · OpenAI | — |
 | **Infra & DevOps** | Ubuntu/Linux · NGINX · Docker · Cloudflare Workers · CI/CD (GitHub/GitLab) · Bash · SSH | Kubernetes · FrankenPHP · AWS |
 | **AI Dev Tools** | Claude Code · GitHub Copilot · Codex · MCP servers | — |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,ts,php,nextjs,react,vue,nuxtjs,tailwind,postgres,mysql,redis,docker,cloudflare,nginx,linux,ubuntu,githubactions&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,nodejs,ts,php,rust,tauri,nextjs,react,vue,nuxtjs,tailwind,postgres,mysql,redis,docker,cloudflare,nginx,linux,ubuntu,githubactions&perline=11" />
 </p>
 
 ---
@@ -192,6 +225,8 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 
 | Package | What it solves |
 |---|---|
+| **[DataQuery](https://github.com/dev-manik-mia/DataQuery)** | A desktop database client for 18 engines, built in Rust and Tauri, with production guardrails and keychain-backed credentials |
+| **[BanglaOkkhor](https://github.com/dev-manik-mia/bangla-okkhor-app)** | A cross-platform Bangla keyboard (Bijoy71 + Avro Phonetic) with a SutonnyMJ ⇄ Unicode converter, MIT-licensed |
 | **[Neuro](https://github.com/dev-manik-mia/neuro)** | Event-driven communication between Laravel microservices over **Redis, RabbitMQ, Kafka or HTTP** — one API, swappable transports |
 | **[Nexus](https://github.com/dev-manik-mia/nexus)** | Structured service integration for large Laravel applications |
 
@@ -212,8 +247,11 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 ## 🚧 Currently
 
 - 📡 Building **[Compel](https://compel.ad)**, an ad-tech platform for brand visibility in AI search
+- 🗄️ Shipping **[DataQuery](https://dataquery.manikmia.com)**, a free database client for 18 engines
+- ⌨️ Maintaining **[BanglaOkkhor](https://bangla-okkhor.manikmia.com)**, a free Bangla keyboard for every desktop OS
 - 🕌 Growing **Halal Pages**, with new features across web and mobile
 - 🤖 AI features for SaaS products (RAG + vector search)
+- 🦀 Rust + Tauri for fast, native cross-platform desktop apps
 - ⚡ Go microservice experiments
 
 ---
@@ -235,7 +273,7 @@ Full-time, contract or remote.
 
 | 🚀 **Launch** | 📈 **Scale** | 🧭 **Lead** |
 |:---:|:---:|:---:|
-| MVP to production on web & mobile | Performance, queues, caching and infra | Architecture, code reviews and technical direction |
+| MVP to production on web, mobile & desktop | Performance, queues, caching and infra | Architecture, code reviews and technical direction |
 
 <br/>
 
