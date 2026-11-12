@@ -93,7 +93,7 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 ### 🗄️ [DataQuery](https://dataquery.manikmia.com) — Desktop Database Client · *New · Open source*
 > *"The database client that stays out of your way."* A fast, local-first desktop app for **browsing schemas, writing queries and editing data across 18 database engines**. It's free, with no account and no telemetry. ([source](https://github.com/dev-manik-mia/DataQuery))
 
-- **18 engines, one app:** PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, CockroachDB, ClickHouse, DuckDB, Snowflake, Redis, Valkey, Dragonfly, MongoDB, DynamoDB, Cassandra, ScyllaDB, Elasticsearch and Neo4j
+- **26 engines, one app:** PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, CockroachDB, ClickHouse, DuckDB, Snowflake, Redis, Valkey, Dragonfly, MongoDB, DynamoDB, Cassandra, ScyllaDB, Elasticsearch and Neo4j
 - **An adapter for each engine:** each has its own explorer, such as a Redis key browser, a MongoDB document view and partition-key-aware Cassandra
 - **Responsive on big data:** queries run off the UI thread with a live timer and a real cancel, and results load in pages
 - **Safe editing:** edit cells inline, review the generated SQL, then commit in one transaction
