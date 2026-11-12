@@ -225,7 +225,7 @@ I own products **end to end**: the architecture, backend, frontend, React Native
 
 | Package | What it solves |
 |---|---|
-| **[DataQuery](https://github.com/dev-manik-mia/DataQuery)** | A desktop database client for 18 engines, built in Rust and Tauri, with production guardrails and keychain-backed credentials |
+| **[DataQuery](https://github.com/dev-manik-mia/DataQuery)** | A desktop database client for 26 engines, built in Rust and Tauri, with production guardrails and keychain-backed credentials |
 | **[BanglaOkkhor](https://github.com/dev-manik-mia/bangla-okkhor-app)** | A cross-platform Bangla keyboard (Bijoy71 + Avro Phonetic) with a SutonnyMJ ⇄ Unicode converter, MIT-licensed |
 | **[Neuro](https://github.com/dev-manik-mia/neuro)** | Event-driven communication between Laravel microservices over **Redis, RabbitMQ, Kafka or HTTP** — one API, swappable transports |
 | **[Nexus](https://github.com/dev-manik-mia/nexus)** | Structured service integration for large Laravel applications |
